@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    float: none;
+    
+  
+
+    
+}
+li{
+    padding: 20px;
+}
+div{
+    background-color: blue;
+}
+li:hover{
+    color: white;
+    /* background-color: orange; */
+    font-style: italic;
+}
+*{
+    color: green;
+    text-align: center;
+}
+h1{
+    font-style: italic;
+}
